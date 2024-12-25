@@ -38,7 +38,7 @@ public class VkTest {
 		
 		driver.navigate().to("https://bookmyshow.com");
 		
-		System.out.println("Hi maven -change");
+		System.out.println("Hi maven -changes");
 		
 		
 	}
