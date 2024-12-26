@@ -2,22 +2,22 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-22T14:03:04 IST" name="Suite" finished-at="2024-12-22T14:03:30 IST" duration-ms="25150">
+  <suite started-at="2024-12-26T08:18:13 IST" name="Suite" finished-at="2024-12-26T08:18:23 IST" duration-ms="9771">
     <groups>
     </groups>
-    <test started-at="2024-12-22T14:03:04 IST" name="Test" finished-at="2024-12-22T14:03:30 IST" duration-ms="25150">
+    <test started-at="2024-12-26T08:18:13 IST" name="Test" finished-at="2024-12-26T08:18:23 IST" duration-ms="9771">
       <class name="org.sample.Mavennew.VkTest">
-        <test-method signature="launch()[pri:0, instance:org.sample.Mavennew.VkTest@6dd7b5a3]" started-at="2024-12-22T14:03:05 IST" name="launch" finished-at="2024-12-22T14:03:16 IST" duration-ms="11038" status="PASS">
+        <test-method signature="launch()[pri:0, instance:org.sample.Mavennew.VkTest@723e88f9]" started-at="2024-12-26T08:18:16 IST" name="launch" finished-at="2024-12-26T08:18:19 IST" duration-ms="2374" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method signature="launch2()[pri:1, instance:org.sample.Mavennew.VkTest@6dd7b5a3]" started-at="2024-12-22T14:03:16 IST" name="launch2" finished-at="2024-12-22T14:03:25 IST" duration-ms="9802" status="PASS">
+        <test-method signature="launch2()[pri:1, instance:org.sample.Mavennew.VkTest@723e88f9]" started-at="2024-12-26T08:18:19 IST" name="launch2" finished-at="2024-12-26T08:18:23 IST" duration-ms="4157" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch2 -->
       </class> <!-- org.sample.Mavennew.VkTest -->
       <class name="org.sample.Mavennew.TC2Test">
-        <test-method signature="testase2()[pri:0, instance:org.sample.Mavennew.TC2Test@723e88f9]" started-at="2024-12-22T14:03:25 IST" name="testase2" finished-at="2024-12-22T14:03:30 IST" duration-ms="4191" status="PASS">
+        <test-method signature="testase2()[pri:0, instance:org.sample.Mavennew.TC2Test@6dd7b5a3]" started-at="2024-12-26T08:18:13 IST" name="testase2" finished-at="2024-12-26T08:18:16 IST" duration-ms="3192" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testase2 -->

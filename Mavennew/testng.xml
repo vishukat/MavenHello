@@ -4,8 +4,9 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="org.sample.Mavennew.AppTest"/>
-      <class name="org.sample.Mavennew.VkTest"/>
       <class name="org.sample.Mavennew.TC2Test"/>
+      <class name="org.sample.Mavennew.VkTest"/>
+     
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
